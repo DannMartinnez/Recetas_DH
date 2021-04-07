@@ -1,0 +1,18 @@
+
+
+body{
+    font-family: Arial,  sans-serif;
+}
+h1 {
+	background-color: #FEF400
+}
+h2{
+    background-color: #EAEAEA;
+    font-style: italic;
+    font-weight: bold;
+    font-family:  "Times New Roman", Times, serif;
+}
+h3{
+    font-style: italic;
+    font-family:  "Times New Roman", Times, serif;
+}
