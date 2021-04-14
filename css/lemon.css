@@ -3,9 +3,17 @@
 body{
     font-family: Arial,  sans-serif;
 }
-h1 {
-	background-color: #FEF400
+
+.fondoLemonPie{
+	background-image:url("../img/lemon-background.png");
+	background-repeat: no-repeat;
+	padding-top: 20%;
+	background-position: bottom center;
+	opacity: 1;
+	background-size: cover;
+	color:white;
 }
+
 h2{
     background-color: #EAEAEA;
     font-style: italic;
